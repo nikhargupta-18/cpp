@@ -1,0 +1,12 @@
+scope of a variable is the region in code where the existence of variable is valid
+based on scope variables are of two types - global and local
+local varibles are declared inside a fn/block and are valid only in that fn
+global var. are declared outside of all fn and are valid throught the entire file
+DATA TYPES -
+data types define the types of data a variable can hold (eg - a character type 
+variable can hold a character data)
+in cpp data types are of three types - built in(stud in cmmnt and var file) 
+,user defined and derived.
+user defined data types- struct , union and enum
+derived data types - arrays functions and pointers
+**local and global variables can have same name but local takes precendence.(refer lowglow)
