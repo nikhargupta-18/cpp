@@ -15,7 +15,7 @@ int main (){
     // {
     //     loop body(cpp code);
     // }
-    // condition ---> loop body run ---> updation //aise chlta h code
+    // condition ---> loop body run ---> updation 
     /* for (int i = 0; i < 1000; i++)
     {
       // code
@@ -52,11 +52,11 @@ int main (){
 
 //example of infinite while loop--->
 
-// int i = 1;
-// while(true)
-// {cout<<i<<endl;
-//     i++;
-// }
+int i = 1;
+while(true)
+{cout<<i<<endl;
+    i++;
+}
 
 
 // do while loop syntax -
@@ -66,20 +66,17 @@ int main (){
 //  c++ statements;
 // }while (conditions)}
    
-int i = 1;
-do
-{
- cout<<i<<endl;
- i++;
-} while (i<10000);
+// int i = 1;
+// do
+// {
+//  cout<<i<<endl;
+//  i++;
+// } while (i<10000);
 //while (false)  // condition false hogi to bhi ek br loop chlega hi
 
 
 
     return 0;
-
-
-
 
 }
 

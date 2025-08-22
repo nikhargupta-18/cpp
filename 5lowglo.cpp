@@ -20,4 +20,3 @@ int main(){
 // removing comment 1, local function will take precedence then print 11
 /* removing comment 2, the value of glo gets updated to 78 code will print 78 
 also notice that the glo that gets updated is also the local one not the global one*/
-// removing comment 3 - to be contd t

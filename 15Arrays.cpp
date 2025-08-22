@@ -5,7 +5,7 @@ int main(){
     cout<<marks[0]<<endl; // in cpp counting starts from 0
     cout<<marks[1]<<endl;
     cout<<marks[2]<<endl;
-    //value change bhi kr skte hai beech program me 
+    
     marks[2]= 44; // changing the value of array '2'
     cout<<marks[2]<<endl;
 

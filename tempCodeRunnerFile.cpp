@@ -1,3 +1,8 @@
-cout<<breakfast<<endl;
-// cout<<lunch<<endl;
-// cout<<dinner<<endl;
+#include<iostream>
+using namespace std;
+int main(){
+int i = 1;
+while(true)
+{cout<<i<<endl;
+    i++;
+}}
